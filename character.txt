@@ -1,4 +1,4 @@
-name=Ãâ‰¹‚µ‚Ì“‡”Å
-image=SINO.bmp
-author:
+name=Ãâ‰¹‚µ‚ÌLITE
+image=shino.bmp
+author:“Œ‰_
 sample=
